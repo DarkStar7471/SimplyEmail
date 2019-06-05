@@ -15,6 +15,10 @@ SimplyEmail was built arround the concept that tools should do somthing, and do 
 ## Updated Info
 * Forked by DarkStar7471 for prolonged development. Currently working on updating to remove conflicts with other recon tools and simplify the installation process.
 
+## Contact
+
+* darkstar [@] darkstar7471.com
+
 ## TL;DR 
 Supported Platforms / Tested with CI:
 * **Docker**
